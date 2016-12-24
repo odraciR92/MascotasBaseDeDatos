@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="favoritos">favoritos</string>
+    <string name="pnombre">nombre</string>
+    <string name="contacto">Contacto</string>
+    <string name="acercaDe">Acerca de</string>
+    <string name="nombreDev">Ricardo Guzmán</string>
+    <string name="edadDev">24 años</string>
+    <string name="ocupacionDev">Desarrollador de Software</string>
+    <string name="ciudadDev">Ciudad de México, México</string>
+    <string name="nombreCompleto">Nombre completo</string>
+    <string name="email">e-mail</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviaComentario">Enviar comentario</string>
+</resources>
